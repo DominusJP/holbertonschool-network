@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# question 4
+netstat -tuln | grep LISTEN
+sudo lsof -i -n -P | grep LISTEN
