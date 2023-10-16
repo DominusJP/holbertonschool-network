@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 # question 5
 
 # Check if at least one argument is provided
