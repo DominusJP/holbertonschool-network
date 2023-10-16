@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # question 5 comment
 
 if [ $# -eq 0 ]; then
